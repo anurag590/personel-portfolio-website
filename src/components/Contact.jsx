@@ -42,7 +42,7 @@ function Contact() {
       {/* Contact Info with Icons */}
       <div className="mt-5 mb-8 flex flex-col space-y-2 text-lg">
         <p>
-          <strong>Phone:</strong> +91-7517327581
+          <strong>Phone:</strong> +91-75173xxxxxxx
         </p>
         <p>
           <strong>Email:</strong> anuragpbansod@gmail.com
